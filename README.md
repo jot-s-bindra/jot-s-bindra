@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jot-s-bindra" alt="jot-s-bindra" /></a> </p>
 
-- 🔭 I’m currently working on **CP-Enhancer**
+- 🔭 I’m currently working on **EEG-Analysis**
 
 - 🌱 I’m currently learning **MLOps**
 
