@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a student of IIITA,passionate about AI/ML field,Currently learning EEG-Analysis and MLOps
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,git,html,css,numpy,matplotlib,mlflow,docker,scikitlearn,tensorflow,huggingface)](https://github.com/jot-s-bindra)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,git,html,css,numpy,matplotlib,mlflow,docker,scikitlearn,tensorflow,huggingface,seaborn)](https://github.com/jot-s-bindra)
 
 # 📊 GitHub Stats:
 <span><img style="width: 39%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jot-s-bindra&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Image 2"></span>
