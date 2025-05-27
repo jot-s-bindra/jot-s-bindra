@@ -1,5 +1,6 @@
 # 👋 Hey, I'm Jot Singh Bindra!
 💡 I'm a passionate Software Developer and Machine Learning enthusiast with expertise in full-stack web development, scalable microservices, and cloud-native systems---
+[Portfolio](https://jotsbindraportfolioo.netlify.app/)
 <table>
 <tr>
 <td align="center">
