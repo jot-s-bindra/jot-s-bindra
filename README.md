@@ -55,6 +55,7 @@
 
 - 🔝 **AIR 12** – Amazon ML Challenge 2024 ([GitHub](https://github.com/jot-s-bindra/AmzonMLChallenge2024))
 - 🏆 **Finalist** – IndoML 2024 BITS Goa Hackathon ([GitHub](https://github.com/jot-s-bindra/KpLadder))
+- 🔝 **AIR 3** – GroMo Finarva AI Hackathon 2025 ([GitHub]([https://github.com/jot-s-bindra/AmzonMLChallenge2024](https://github.com/jot-s-bindra/gp_voice_dashboard)))
 - ✨ **Open Source** – 6+ contributions to Optuna during Hacktoberfest 2023
 
 ---
