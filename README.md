@@ -69,8 +69,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jot-s-bindra-60133824b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jotsbindra03@gmail.com)
 
----
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=jot-s-bindra&icon=0&color=1" alt="Profile Views" />
-</p>
